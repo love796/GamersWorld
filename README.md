@@ -1,2 +1,0 @@
-# GmaersWorld
-Online chat system
